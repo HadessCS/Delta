@@ -1,5 +1,8 @@
 Welcome to the LLM Vulnerable Application! This application is designed for educational purposes to simulate common vulnerabilities related to Large Language Models (LLMs). Please note that this application intentionally contains vulnerabilities and should only be used in controlled environments.
 
+<img src="https://github.com/HadessCS/Delta/blob/main/delta_logo.png">
+
+
 Vulnerabilities
 LLM01: Prompt Injection (llm1.py)
 This vulnerability allows manipulation of the LLM through crafty inputs, causing unintended actions. Direct injections can overwrite system prompts, while indirect ones manipulate inputs from external sources.
